@@ -1,0 +1,11 @@
+# Fichiers temporaires Stata
+*_tmp_*.dta
+*.log
+*.smcl
+
+# Bases brutes non versionnees (a recuperer aupres du coordonnateur)
+00_raw_data/*.dta
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
